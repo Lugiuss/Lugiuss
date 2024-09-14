@@ -5,7 +5,7 @@
 <p>🌱 I'm currently learning Java</p>
 <p>💬 Ask me about Minecraft Scripting</p>
 <p>📫 How to reach me? @lugiuss (Discord)</p>
-<p>I regularly write articles on <a href="">lugiuss.de</a></p>
+<p>🔗 I regularly write articles on <a href="http://lugiuss.de">lugiuss.de</a></p>
 
 ## 💻 Skills
 <p>
