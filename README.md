@@ -1,9 +1,31 @@
-<h1 align="center">Hi 👋, I'm Lugiuss</h1>
-<h3 align="center">Skript Developer and Learning Java</h3>
+# Hi there 👋, My name is Lugiuss!
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+## 💫 Liitle Bit More About Me
+<p>🔭 I'm currently working on FlowMC Network</p>
+<p>🌱 I'm currently learning Java</p>
+<p>💬 Ask me about Minecraft Scripting</p>
+<p>📫 How to reach me? @lugiuss (Discord)</p>
+<p>I regularly write articles on <a href="">lugiuss.de</a></p>
+
+## 💻 Skills
+<p>
+<img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" style="margin-bottom: 4px;" height="30px">
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" style="margin-bottom: 4px;" height="30px">
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> </p>
+## 👥 Connect With Me
+<p>
+<a href="https://twitter.com/lugiuss"><img src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white" style="margin-bottom: 4px;" height="30px" target="_blank"></a>
+<a href="https://www.youtube.com/c/lugiuss"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" style="margin-bottom: 4px;" height="30px" target="_blank"></a>
+</p>
+
+## 🌟 Github Badges
+<p>
+</p>
+
+## 🏆 GitHub Trophies
+
+<p><img src="https://github-profile-trophy.vercel.app/?username=Lugiuss">
+</p>
+
+## 📊 Github Status
