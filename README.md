@@ -1,6 +1,6 @@
 # Hi there 👋, My name is Lugiuss!
 
-## 💫 Liitle Bit More About Me
+## 💫 Little Bit More About Me
 <p>🔭 I'm currently working on FlowMC Network</p>
 <p>🌱 I'm currently learning Java</p>
 <p>💬 Ask me about Minecraft Scripting</p>
