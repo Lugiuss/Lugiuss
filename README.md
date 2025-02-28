@@ -1,11 +1,10 @@
 # Hi there 👋, My name is Lugiuss!
 
 ## 💫 Little Bit More About Me
-<p>🔭 I'm currently working on FlowMC Network</p>
 <p>🌱 I'm currently learning Java</p>
 <p>💬 Ask me about Minecraft Scripting</p>
 <p>📫 How to reach me? @lugiuss (Discord)</p>
-<p>🔗 I regularly write articles on <a href="http://lugiuss.de">lugiuss.de</a></p>
+<p>🔗 Check out <a href="https://guns.lol/lugiuss">guns.lol/lugiuss</a></p>
 
 ## 💻 Skills
 <p>
